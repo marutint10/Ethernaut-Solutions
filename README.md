@@ -3,6 +3,7 @@
 This repository contains my solutions for all the challenges on the Ethernaut platform.
 
 **About Ethernaut**
+
 Ethernaut is a Web3/Solidity-based wargame inspired by overthewire.org. Each level is a smart contract that needs to be 'hacked'.
 
 **Acknowledgments**
